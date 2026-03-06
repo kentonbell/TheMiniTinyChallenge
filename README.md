@@ -28,7 +28,15 @@ Currently implemented games:
 - [x] Tic Tac Toe  
 - [x] Unscramble a Word  
 - [x] Flip a Coin  
-- [x] Name Countries and Capitals  
+- [x] Name Countries and Capitals
+  - All Capitals
+  - All Countries
+  - Asia
+  - Europe
+  - Africa
+  - Oceania
+  - North America
+  - South America  
 - [x] Increasing Word Length Spelling Challenge  
 - [x] Anagrams (7-letter word competition)  
 - [x] Higher or Lower  
